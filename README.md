@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michalguspiel
-- 👀 I’m chef who's working to change carrer into software development
+- 👀 I’m aspiring software developer.
 - 🌱 I’m currently learning native android development, afterwards want to move on to cross platform mobile development. 
 - 💞️ I’m looking to collaborate on ... any android project
 - 📫 How to reach me ... guspielmichal@gmail.com
